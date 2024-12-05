@@ -169,9 +169,9 @@ const App = () => {
                         className="w-full h-56 object-cover cursor-pointer"
                         onClick={() => handleImageClick(image)} 
                       />
-                      <div className="absolute top-0 left-0 bg-black bg-opacity-50 text-white text-sm px-2 py-1">
+                      {/* <div className="absolute top-0 left-0 bg-black bg-opacity-50 text-white text-sm px-2 py-1">
                         Violation
-                      </div>
+                      </div> */}
                     </div>
 
                     <div className="p-4">
